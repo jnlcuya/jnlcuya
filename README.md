@@ -13,7 +13,7 @@ My journey in customer and tech support has led me to develop an interest and pa
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Conducting a Security Audit | <a href="https://google.com">TITLEENTERHERE</a>|
+| Conducting a Security Audit | <a href="https://github.com/jnlcuya/Conducting-a-Security-Audit/tree/main">Security Audit</a>|
 | Phishing Attack Simulator | <a href="https://google.com">TITLEENTERHERE</a>|
 | Host Based Intrusion Detection System | <a href="https://google.com">TITLEENTERHERE</a>|
 | Cybersecurity Job Simulation | <a href="https://google.com">TITLEENTERHERE</a>|
