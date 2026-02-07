@@ -13,8 +13,8 @@ My journey in customer and tech support has led me to develop an interest and pa
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Conducting a Security Audit | <a href="https://google.com">TITLEENTERHERE</a>|
 | Phishing Attack Simulator | <a href="https://google.com">TITLEENTERHERE</a>|
-| IT Simulation Training | <a href="https://google.com">TITLEENTERHERE</a>|
 | Host Based Intrusion Detection System | <a href="https://google.com">TITLEENTERHERE</a>|
 | Cybersecurity Job Simulation | <a href="https://google.com">TITLEENTERHERE</a>|
 
@@ -38,7 +38,7 @@ My journey in customer and tech support has led me to develop an interest and pa
 <img src="https://img.shields.io/badge/Coursera-Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
 
 ## Current Ongoing Projects
+- Conducting a Security Audit
 - Phishing Attack Simulator
-- IT Simulation Training
 - Host Based Intrusion Detection System
 - Cybersecurity Job Simulation
